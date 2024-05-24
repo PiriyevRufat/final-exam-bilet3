@@ -1,0 +1,39 @@
+.about-heading span{
+    font-family: "Muli", Arial, sans-serif;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.about-heading h3{
+    font-family: "Muli", Arial, sans-serif;
+    font-size: 30px;
+}
+.about-desc{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.about-desc p{
+    font-family: "Muli", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 300;
+    color: #8b8b92;
+    margin-bottom: 1rem;
+}
+@media only screen and (max-width: 1400px) {
+    .about-row{
+        gap: 50px;
+    }
+  }
+.about-heading p{
+    font-family: "Muli", Arial, sans-serif;
+}
+.about-heading span{
+    font-family: "Muli", Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.2);
+}
+.about-heading h3{
+    font-family: "Muli", Arial, sans-serif;
+}

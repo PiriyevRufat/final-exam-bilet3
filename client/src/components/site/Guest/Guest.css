@@ -1,0 +1,30 @@
+.slider-image img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.slider-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-right: 15px;
+}
+.slider-desc{
+    text-align: center;
+}
+.guest-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.guest-heading span{
+    color: #a5a5ab;
+    font-family: "Muli", Arial, sans-serif;
+}
+.position{
+    color: #a5a5ab;
+    font-family: "Muli", Arial, sans-serif;
+}

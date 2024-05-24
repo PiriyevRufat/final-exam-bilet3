@@ -1,0 +1,34 @@
+.mynavbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 125px;
+    margin-top: 50px;
+    position: sticky;
+    top: -80px;
+    left: 0;
+}
+.my-ul{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+.my-ul li{
+    margin-right: 15px;
+}
+.my-ul li a{
+    color: white;
+    font-size: 16px;
+    font-family: "Muli", Arial, sans-serif;
+}
+.header-my{
+    background-color: #404044;
+}
+.nav-left a{
+    color: white;
+    font-size: 16px;
+    font-family: "Muli", Arial, sans-serif;
+    padding: 15px 20px;
+    border: 2px solid white;
+}

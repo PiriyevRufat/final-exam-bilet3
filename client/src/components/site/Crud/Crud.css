@@ -1,0 +1,29 @@
+.crud-sect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.crud-heading{
+    text-align: center;
+}
+.crud-heading span{
+    font-size: 12px;
+    color: #a5a5ab;
+    font-family: "Muli", Arial, sans-serif;
+}
+.crud-heading h2{
+    font-size: 34px;
+    font-family: "Muli", Arial, sans-serif;
+}
+.crud-footer a{
+    color: #ffb400;
+    padding: 15px 20px;
+    border: 2px solid #ffb400;
+}
+.crud-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,17 @@
+.mynavbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 125px;
+    margin-top: 50px;
+    position: relative;
+}
+.my-ul{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+.my-ul li{
+    margin-right: 15px;
+}
